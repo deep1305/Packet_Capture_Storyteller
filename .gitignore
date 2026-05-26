@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# PCAP sample files (large binaries, not for version control)
+Pcap Files/
+*.pcap
+*.pcapng
+*.cap
